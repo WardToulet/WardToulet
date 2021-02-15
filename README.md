@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+- Currently studying applied computer science at Erasmus university college
+in Burssels.
+- Love trying stuff with typescript and rust.
+
+### My projects
+
+- [tipi](https://github.com/WardToulet/tipi): a http endpoint library
+
+### Nice projects
+
+- [stamhoofd](https://github.com/stamhoofd/stamhoofd)
+
+
 <!--
 **WardToulet/WardToulet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
